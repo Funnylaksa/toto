@@ -10,7 +10,12 @@ Tried to increase coverage:
 But did not manage to find a solution lower than 163...
 
 Odds of getting any prize is 1/53.6. But why are we not able to get a list of 54 tickets that can guarantee at least
-a single group 7 win? """
+a single group 7 win? 
+
+Question of the day: Is there a link between the 2 variables?  
+    1) Odds of getting any prize -> 1/53.6 
+    2) Minimum tickets to buy to guarantee a group 7 win(3 matches) -> 163 tentatively
+"""
 #########################################
 import random
 import lotterywheel
